@@ -29,5 +29,5 @@ WebStack 有非常多的魔改版本，这是其中一个。如果你对本主�
 
 #### 主题演示地址
 
-- [https://nav.bioitee.com](https://nav.bioitee.com)
+- [https://bioit.top/](https://bioit.top/)
 - [https://shenweiyan.github.io/webstack-hugo](https://shenweiyan.github.io/webstack-hugo)

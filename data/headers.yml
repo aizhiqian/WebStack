@@ -3,7 +3,7 @@
   link: "./"
 
 - item: 作者
-  icon: fa fa-book
+  icon: fas fa-user
   link: https://www.yuque.com/shenweiyan
 
 - item: 配置
@@ -11,6 +11,10 @@
   link: ""
   list:
     - name: 源码
-      url: "#"
+      url: "https://github.com/aizhiqian/WebStack"
+    - name: 主题
+      url: "https://github.com/shenweiyan/WebStack-Hugo"
+    - name: 教程
+      url: "https://github.com/shenweiyan/Knowledge-Garden/discussions/10"
     - name: 图标
-      url: "#"
+      url: "https://fontawesome.com/v5/search?o=r&m=free"
