@@ -45,7 +45,7 @@
       url: https://www.yuque.com/
       description: 专业的云端知识库
     - title: QQ 邮箱
-      logo: QQ邮箱.png
+      logo: qqmail.png
       url: http://mail.qq.com/
       description: 腾讯 QQ 邮箱
     - title: GitHub
@@ -453,7 +453,7 @@
     - term: 邮箱服务
       links:
         - title: QQ 邮箱
-          logo: QQ邮箱.png
+          logo: qqmail.png
           url: http://mail.qq.com/
           description: 腾讯 QQ 邮箱
         - title: 网易 163 邮箱
