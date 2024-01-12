@@ -720,6 +720,10 @@
           url: https://www.tiktok.com/
           logo: tiktok.png
           description: TikTok 是一个短视频和直播平台
+        - title: 泥视频
+          logo: 泥视频.ico
+          url: https://www.nivod4.tv/
+          description: 泥视频全球华人在线视频媒体平台，即点即播！
         - title: 555电影
           logo: 555电影.webp
           url: https://555dy.org/
@@ -803,6 +807,10 @@
           url: https://avple.tv/
           logo: Avple.ico
           description: 福利,亚洲,视频,免费高清AV,麻豆传媒在线看，无需下载看到饱。SVIP收费福利。
+        - title: Netflav
+          url: https://netflav5.com/
+          logo: Netflav.ico
+          description: Netflav 集结琳琅满目的精彩日本成人影片，只有在这才找得到，全部精心制作。
         - title: AV01
           url: https://www.av01.tv/
           logo: AV01.jpg
@@ -811,6 +819,18 @@
           url: https://dsysav01.com/
           logo: DsysAV.ico
           description: 国产，日本，韩国，三级，91大神，探花大神，主播，自拍流出
+        - title: JAVDAY
+          url: https://javday.tv/
+          logo: JAVDAY.ico
+          description: 免费高清AV在线看| 麻豆 AV 看到饱
+        - title: NJAV
+          url: https://njav.tv/zh
+          logo: NJAV.ico
+          description: 在线观看高清Jav，免费和高质量的 AV
+        - title: SupJav
+          url: https://supjav.com/zh/
+          logo: SupJav.ico
+          description: 在线观看高清日本AV, 最好的日本成人视频网站. 无码AV, 有码AV, 无码破解AV, 中文字幕AV, 独家高质量日本AV. 每天更新最快最新的日本AV
         - title: 白虎色
           url: https://paipancon.com/
           logo: 白虎色.png
