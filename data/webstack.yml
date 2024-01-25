@@ -27,6 +27,10 @@
       logo: pandora.png
       url: https://pandora.aizhiqian.xyz/
       description: 个人ChatGPT
+    - title: iOS 图标
+      logo: iOS图标.ico
+      url: https://icon.taoru.eu.org/
+      description: 从 App Store 获取高清应用图标
     - title: 语雀
       logo: 语雀.png
       url: https://www.yuque.com/aizhiqian
@@ -534,6 +538,10 @@
           logo: iconfont.png
           url: http://www.iconfont.cn/
           description: 阿里巴巴矢量图标库。
+        - title: Logo.wine
+          logo: Logo-wine.png
+          url: https://www.logo.wine/
+          description: Logo.wine 是全球品牌logo的在线收集，可免费下载 SVG 矢量或 PNG 文件格式。
     - term: 字体资源
       links:
         - title: Google Font
@@ -789,6 +797,10 @@
           url: https://xxxclub.to/
           logo: XXXClub.png
           description: 学习资源磁力和种子资源，而且网站比较干净，提供资源预览和详细的文字说明，种子和磁力资源可以直接下载，不用注册登录
+        - title: JavDB
+          url: https://javdb.com/
+          logo: JavDB.png
+          description: JavDB 成人影片数据库 | 分类齐全
     - term: 在线视频
       links:
         - title: MissAV
@@ -895,6 +907,12 @@
           url: https://jinjier.art/
           logo: JAV金鸡儿奖.ico
           description: JAV金鸡儿奖官网
+    - term: 论坛社区
+      links:
+        - title: Xslist
+          url: https://xslist.org/zh
+          logo: Xslist.ico
+          description: 宅男偶像档案、图片、影视作品 基于人脸识别偶像 JAV搜索
     - term: 地址导航
       links:
         - title: 聚BT
