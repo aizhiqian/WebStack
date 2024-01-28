@@ -411,6 +411,30 @@
           logo: squoosh.svg
           url: https://squoosh.app/
           description: Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser.
+    - term: 临时邮箱
+      links:
+        - title: Temp Mail
+          logo: Temp Mail.png
+          url: https://temp-mail.io/zh
+          description: 免费的一次性临时电子邮件地址可确保您的个人电子邮件安全无虞，免受垃圾邮件和病毒的侵害。完全匿名且使用temp-mail.io保护
+        - title: Temp-Mail
+          logo: Temp-Mail.ico
+          url: https://temp-mail.org/zh/
+          description: 确保你的电子邮件中不再出现垃圾邮件，保证安全 - 只需使用一个匿名的一次性电子邮件地址！保护您的个人电子邮件地址免受垃圾邮件，机器人程序和钓鱼网站的攻击。
+        - title: Advanced
+          logo: Advanced.png
+          url: https://smailpro.com/advanced
+          description: 临时 google、outlook 邮箱 | 需要科学上网
+        - title: Mail.tm
+          logo: Mailtm.png
+          url: https://mail.tm/zh/
+          description: 随时使用临时电子邮件在可疑的网站、论坛或社交网络上注册。保护您的个人电子邮件地址免受垃圾邮件.
+    - term: 临时手机
+      links:
+        - title: Temporary phone number
+          logo: Temporary phone number.ico
+          url: https://temporary-phone-number.com/
+          description: Temporary-Phone-Number | 提供临时电话号码、免费虚拟电话号码，中国、美国、英国、香港...的免费电话号码，您可以使用临时电话号码注册谷歌语音、苹果 ID、Gmail、Facebook、whatsapp、telegram、twitter、instagram、yahoo 等网站或应用程序，这是完全免费的在线接收短信服务！
 
 
 - taxonomy: 素材资源
