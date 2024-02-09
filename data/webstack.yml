@@ -779,6 +779,7 @@
           logo: DiskGirl.ico
           description: DiskGirl小姐姐随机播放
     - term: 共享 ID
+      links:
         - title: Shadowrocket
           url: https://ccbaohe.com/appleID/
           logo: Shadowrocket.webp
