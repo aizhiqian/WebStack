@@ -23,10 +23,6 @@
       logo: 图床.png
       url: https://img.aizhiqian.xyz/
       description: 简单图床
-    - title: Pandora
-      logo: pandora.png
-      url: https://pandora.aizhiqian.xyz/
-      description: 个人ChatGPT
     - title: iOS 图标
       logo: iOS图标.ico
       url: https://icon.taoru.eu.org/
@@ -552,6 +548,12 @@
           logo: BingAPI.png
           url: https://bing-wallpaper.apifox.cn/
           description: Bing-Wallpaper-Action 公开API
+    - term: 字幕下载
+      links:
+        - title: Subtitle Cat
+          logo: Subtitle Cat.ico
+          url: https://www.subtitlecat.com/
+          description: 将字幕翻译成各种语言 | All Language Subtitles
     - term: 图标素材
       links:
         - title: Font Awesome Icon
@@ -776,6 +778,11 @@
           url: https://diskgirl.com/
           logo: DiskGirl.ico
           description: DiskGirl小姐姐随机播放
+    - term: 共享 ID
+        - title: Shadowrocket
+          url: https://ccbaohe.com/appleID/
+          logo: Shadowrocket.webp
+          description: 为了保证更好的使用体验，apple ID和shadowrocket（小火箭）进行无偿分享（每日定时维护更新）。
     - term: 社交聊天
       links:
         - title: Telegram
@@ -822,9 +829,13 @@
           logo: XXXClub.png
           description: 学习资源磁力和种子资源，而且网站比较干净，提供资源预览和详细的文字说明，种子和磁力资源可以直接下载，不用注册登录
         - title: JavDB
-          url: https://javdb.com/
+          url: https://jav.app/
           logo: JavDB.png
           description: JavDB 成人影片数据库 | 分类齐全
+        - title: JAVLibrary
+          url: https://www.javlibrary.com/cn/
+          logo: JAVLibrary.ico
+          description: 你的线上日本成人影片情报站。管理你的影片并分享你的想法。
     - term: 在线视频
       links:
         - title: MissAV
@@ -937,6 +948,10 @@
           url: https://xslist.org/zh
           logo: Xslist.ico
           description: 宅男偶像档案、图片、影视作品 基于人脸识别偶像 JAV搜索
+        - title: 色花堂-98堂
+          url: https://www.sehuatang.org/
+          logo: 98堂.ico
+          description: 98堂[原色花堂]
     - term: 地址导航
       links:
         - title: 聚BT
