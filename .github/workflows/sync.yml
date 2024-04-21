@@ -3,7 +3,7 @@ name: code-sync
 on:
   push:
     branches:
-      # - main
+      - main
 
 jobs:
   push-to-mirror:
