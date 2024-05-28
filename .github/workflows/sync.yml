@@ -3,7 +3,7 @@ name: code-sync
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   push-to-mirror:
@@ -23,7 +23,7 @@ jobs:
           GITHUB_REPOSITORY: aizhiqian/WebStack
           GITHUB_USERNAME: ${{ secrets.GH_USERNAME }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          
+
       - name: Push to Coding
         run: |
           echo "stop!"
@@ -38,8 +38,8 @@ jobs:
           CODING_REPOSITORY: shenweiyan/webstack/nav.bioitee.src
           CODING_USERNAME: ${{ secrets.CODING_USERNAME }}
           CODING_PASSWORD: ${{ secrets.CODING_PASSWORD }}
-          
-      - name: Push to Gitee 
+
+      - name: Push to Gitee
         uses: Yikun/hub-mirror-action@master
         with:
           src: github/shenweiyan

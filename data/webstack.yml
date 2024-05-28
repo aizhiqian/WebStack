@@ -2,14 +2,14 @@
 
 - taxonomy: 作者站点
   icon: fas fa-medal
-  links: 
+  links:
     - title: 主页
       logo: 主页.png
       url: https://www.aizhiqian.eu.org/
       description: 个人主页
     - title: 博客
       logo: 博客.webp
-      url: https://blog.aizhiqian.eu.org/
+      url: https://aizhiqian.github.io/
       description: 个人博客
     - title: Alist
       logo: alist.png
@@ -21,8 +21,16 @@
       description: 备忘录
     - title: 图床
       logo: 图床.png
-      url: https://img.aizhiqian.xyz/
+      url: https://img.aiguohou.eu.org/
       description: 简单图床
+    - title: 随机图
+      logo: 随机图.ico
+      url: https://www.aini.cn.eu.org/
+      description: 随机图片 | API
+    - title: Sink
+      logo: sink.png
+      url: https://mivo.eu.org/
+      description: 链接缩短器，带分析功能，在 Cloudflare 上运行
     - title: iOS 图标
       logo: iOS图标.ico
       url: https://icon.taoru.eu.org/
@@ -39,7 +47,7 @@
 
 - taxonomy: 常用推荐
   icon: far fa-star
-  links: 
+  links:
     - title: 语雀
       logo: 语雀.png
       url: https://www.yuque.com/
@@ -64,6 +72,10 @@
       url: https://vercel.com/
       logo: vercel.png
       description: Vercel
+    - title: Netlify
+      logo: Netlify.png
+      url: https://www.netlify.com/
+      description: Netlify
     - title: Cloudflare
       logo: Cloudflare.webp
       url: https://dash.cloudflare.com/
@@ -269,7 +281,7 @@
 
 - taxonomy: 教育学习
   icon: fas fa fa-graduation-cap
-  list:        
+  list:
     - term: 教育平台
       links:
         - title: 中国教育考试网
@@ -328,9 +340,13 @@
 
 - taxonomy: 工具集合
   icon: fas fa-tools fa-lg
-  list: 
+  list:
     - term: 图床运营
       links:
+        - title: 美团图床
+          url: https://img.131213.xyz/mt
+          logo: 美团图床.ico
+          description: TG，美团，腾讯
         - title: SM.MS
           url: https://sm.ms/
           logo: smms.png
@@ -340,7 +356,7 @@
           logo: PicX.png
           description: 免费Github图床工具
         - title: Telegraph-Image
-          url: https://img.aiguohou.eu.org/
+          url: https://telegraph-image.pages.dev/
           logo: Telegraph-Image.webp
           description: 基于Telegraph的免费图床工具
         - title: ImgBB
@@ -421,6 +437,10 @@
           logo: Advanced.png
           url: https://smailpro.com/advanced
           description: 临时 google、outlook 邮箱 | 需要科学上网
+        - title: Temporary Gmail
+          logo: Temporary Gmail.ico
+          url: https://www.emailnator.com/
+          description: 网络上最先进的临时电子邮件服务，可防止垃圾邮件，确保邮件安全。它可以让你使用真实的 Gmail 电子邮件地址。
         - title: Mail.tm
           logo: Mailtm.png
           url: https://mail.tm/zh/
@@ -441,11 +461,15 @@
         - title: 百度网盘
           logo: 百度网盘.jpg
           url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
+          description: 为您提供文件的网络备份、同步和分享服务。
         - title: 阿里云盘
           logo: 阿里云盘.png
           url: https://www.aliyundrive.com/
           description: 阿里云盘，你的数字世界。
+        - title: 蓝奏云
+          logo: 蓝奏云.jpg
+          url: https://up.woozooo.com/
+          description: 拥有无限制的总存储空间。
         - title: 坚果云
           logo: 坚果云.png
           usrl: https://www.jianguoyun.com/
@@ -502,6 +526,14 @@
           logo: wallhave.svg
           url: https://wallhaven.cc/
           description: Your source for the best high quality wallpapers on the Net!
+        - title: 彼岸图网
+          logo: 彼岸图网.ico
+          url: https://pic.netbian.com/
+          description: 提供最新最全4K壁纸,包含4K游戏、动漫、美女、风景、影视、汽车、动物、人物、美食、背景、平板等精选高清4K壁纸大全
+        - title: Pinterest
+          logo: pinterest.png
+          url: https://www.pinterest.com/
+          description: 精美的图片分享
         - title: Unsplash
           logo: unsplash.svg
           url: https://unsplash.com/
@@ -530,12 +562,6 @@
           logo: 壁纸 - MIKE笔记.jpg
           url: https://mikenote.asia/picture.html
           description: 精选壁纸
-    - term: 图片API
-      links:
-        - title: IMGAPI-图片API
-          logo: IMGAPI-图片API.ico
-          url: https://imgapi.cn/
-          description: IMGAPI图片API海量图片等你来调用
         - title: 如诗 API
           logo: 如诗 API.ico
           url: https://api.likepoems.com/
@@ -550,6 +576,10 @@
           description: Bing-Wallpaper-Action 公开API
     - term: 字幕下载
       links:
+        - title: 射手网(伪)
+          logo: 射手网.jpg
+          url: https://assrt.net/
+          description: 影视字幕下载
         - title: Subtitle Cat
           logo: Subtitle Cat.ico
           url: https://www.subtitlecat.com/
@@ -738,6 +768,10 @@
           url: https://madou.club/
           logo: 麻豆社.png
           description: 本站主要收集麻豆传媒、果冻传媒、精东影业、蜜桃影像、天美传媒、皇家华人、杏吧、乐播传媒、乌鸦传媒等原创自制华人国语对白成人视频，免费在线播放
+        - title: 笔盒
+          url: https://beabox.net/
+          logo: 笔盒.ico
+          description: 笔盒(beabox.net)-国产精品在线,免费高清在线看,每日更新,安全,无毒,绿色 | 发送任意邮件到zhaohui@beabox.net,自动回复最新地址
         - title: PornRips
           url: https://pornrips.to/
           logo: PornRips.png
@@ -768,6 +802,10 @@
           description: 游戏 - 色情游戏. 色情游戏. 享受免费游戏的无尽乐趣
     - term: 成人小说
       links:
+        - title: 搜书吧
+          url: https://www.soushu2035.com/
+          logo: 搜书吧.ico
+          description: 搜书吧提供各种格式小说下载（soushuba@gmail.com）
         - title: 亚洲色图
           url: https://yazhouse8.com/
           logo: 亚洲色图.ico
@@ -776,6 +814,10 @@
           url: https://asmrhub.site/
           logo: ASMR Hub.png
           description: 成人ASMR在线免费听～还可以搜索AV的番号～
+        - title: ASMR助眠小站
+          url: https://asmrxz.top/
+          logo: ASMR助眠小站.ico
+          description: 高品质ASMR助眠视频在线播放
         - title: TXTxi
           url: https://www.txtxi.com/
           logo: TXTxi.png
@@ -800,6 +842,10 @@
           url: https://www.sehuatang.org/
           logo: 98堂.ico
           description: 98堂[原色花堂]
+        - title: 司机社
+          url: https://xsijishe.net/
+          logo: 司机社.jpeg
+          description: 求出处?找番号?来这里！老司机云集之地，司机的蜕变之路！
     - term: 地址导航
       links:
         - title: 聚BT
