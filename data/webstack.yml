@@ -802,10 +802,22 @@
           description: 游戏 - 色情游戏. 色情游戏. 享受免费游戏的无尽乐趣
     - term: 成人小说
       links:
+        - title: 有爱爱
+          url: https://www.uaa.com/
+          logo: 有爱爱.ico
+          description: 有声小说，精选视频，成人文学，色情漫画，成人直播
         - title: 搜书吧
           url: https://www.soushu2035.com/
           logo: 搜书吧.ico
           description: 搜书吧提供各种格式小说下载（soushuba@gmail.com）
+        - title: 中文成人文学网
+          url: https://www.xbookcn.net/
+          logo: 中文成人文学网.ico
+          description: 免费成人小说,情色文学,色情小说网站
+        - title: 小黄书
+          url: https://xchina.co
+          logo: 小黄书.png
+          description: 《小黄书》（xChina）是华语区最大的综合性成人网站之一，拥有美女套图、模特写真、人体摄影、成人影片、性爱视频、国模大尺度无圣光写真、成人小说、福利资源下载等诸多海量内容，服务于广大华人色友，提供中文简体、繁体版本、韩语、英语、西班牙语版本，完全免费，让你一次看不够
         - title: 亚洲色图
           url: https://yazhouse8.com/
           logo: 亚洲色图.ico
@@ -822,10 +834,6 @@
           url: https://www.txtxi.com/
           logo: TXTxi.png
           description: 免费提供大量的色情文学，色情小说，成人小说，黄色小说，言情小说，看色情小说。
-        - title: 有爱爱
-          url: https://www.uaa.com/
-          logo: 有爱爱.ico
-          description: 有声小说，精选视频，成人文学，色情漫画，成人直播
     - term: 偶像专题
       links:
         - title: Xslist
