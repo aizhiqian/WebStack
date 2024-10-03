@@ -13,11 +13,11 @@
       description: 个人博客
     - title: Alist
       logo: alist.png
-      url: https://alist.aizhiqian.xyz/
+      url: https://alist.xivo.eu.org/
       description: 个人云盘
     - title: memos
       logo: memos.png
-      url: https://memos.aizhiqian.xyz/
+      url: https://memos.xivo.eu.org/
       description: 备忘录
     - title: 图床
       logo: 图床.png
@@ -807,7 +807,7 @@
           logo: 有爱爱.ico
           description: 有声小说，精选视频，成人文学，色情漫画，成人直播
         - title: 搜书吧
-          url: https://www.soushu2035.com/
+          url: https://www.soushu2030.com/
           logo: 搜书吧.ico
           description: 搜书吧提供各种格式小说下载（soushuba@gmail.com）
         - title: 中文成人文学网
@@ -864,6 +864,10 @@
           url: https://theporndude.com/zh
           logo: Porn Dude.svg
           description: Porn Dude向你推荐最好的色情网站。
+        - title: 色情导航
+          url: https://sexgps.net/
+          logo: 色情导航.png
+          description: 色情导航收集了各类优质成人色情资源，如：成人网站、成人视频、成人APP、成人漫画、成人小说、成人下载等，让你一次撸个够…
         - title: 141JJ
           url: https://141jj.com/
           logo: 141JJ.ico
