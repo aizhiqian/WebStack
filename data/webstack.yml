@@ -5,7 +5,7 @@
   links:
     - title: 主页
       logo: 主页.png
-      url: https://www.aizhiqian.eu.org/
+      url: https://www.6045833.xyz/
       description: 个人主页
     - title: 博客
       logo: 博客.webp
@@ -17,23 +17,23 @@
       description: 个人云盘
     - title: memos
       logo: memos.png
-      url: https://memos.xivo.eu.org/
+      url: https://memos.6045833.xyz/
       description: 备忘录
     - title: 图床
       logo: 图床.png
-      url: https://img.aiguohou.eu.org/
-      description: 简单图床
+      url: https://img.6045833.xyz/
+      description: CF图床
     - title: 随机图
       logo: 随机图.ico
-      url: https://www.aini.cn.eu.org/
+      url: https://api.6045833.xyz/
       description: 随机图片 | API
     - title: Sink
       logo: sink.png
-      url: https://mivo.eu.org/
+      url: https://dl.6045833.xyz/
       description: 链接缩短器，带分析功能，在 Cloudflare 上运行
     - title: iOS 图标
       logo: iOS图标.ico
-      url: https://icon.taoru.eu.org/
+      url: https://icon.6045833.xyz/
       description: 从 App Store 获取高清应用图标
     - title: 语雀
       logo: 语雀.png
